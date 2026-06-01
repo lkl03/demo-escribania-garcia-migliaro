@@ -1,2 +1,7 @@
-# demo-escribania-garcia-migliaro
-Demo web para Escribanía García Migliaro — diseñada por eterlab.
+# Escribanía García Migliaro
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
